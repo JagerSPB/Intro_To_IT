@@ -1,4 +1,8 @@
 # Intro_To_IT
+
+Блок-Схема в папке Схема
+
+Ссылка на программу:
 https://github.com/JagerSPB/Intro_To_IT/blob/main/HomeWorkIT/Program.cs
 
 Задача:
