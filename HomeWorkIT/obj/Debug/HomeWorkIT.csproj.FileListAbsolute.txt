@@ -1,0 +1,6 @@
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/HomeWorkIT/bin/Debug/HomeWorkIT.exe
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/HomeWorkIT/bin/Debug/HomeWorkIT.pdb
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/HomeWorkIT/obj/Debug/HomeWorkIT.csproj.AssemblyReference.cache
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/HomeWorkIT/obj/Debug/HomeWorkIT.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/HomeWorkIT/obj/Debug/HomeWorkIT.exe
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/HomeWorkIT/obj/Debug/HomeWorkIT.pdb
