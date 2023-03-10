@@ -1,0 +1,11 @@
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/bin/Debug/net7.0/Case2
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/bin/Debug/net7.0/Case2.dll
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/bin/Debug/net7.0/Case2.pdb
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.csproj.AssemblyReference.cache
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.AssemblyInfoInputs.cache
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.AssemblyInfo.cs
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.dll
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/refint/Case2.dll
+/Users/vaysmans/Downloads/Учёба/Intro_To_IT/Case2/Case2/obj/Debug/net7.0/Case2.pdb
